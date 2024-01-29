@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя погода</string>
+    <string name="no_access_to_your_location">Нет доступа к местоположению</string>
+    <string name="permit_access">Вы можете предоставить доступ в настройках</string>
+    <string name="close">Закрыть</string>
+    <string name="settings">Настройки</string>
+    <string name="sorry_something_went_wrong">Извините, что-то пошло не так</string>
+    <string name="add">Добавить</string>
+    <string name="temperature">Температура</string>
+    <string name="precipitation">Осадки</string>
+    <string name="snow">Снег</string>
+    <string name="humidity">Влажность</string>
+    <string name="sunset">Закат</string>
+    <string name="sunrise">Восход</string>
+    <string name="pressure">Давление</string>
+    <string name="wind">Ветер</string>
+    <string name="clouds">Облака</string>
+    <string name="min">Мин.</string>
+    <string name="max">Макс.</string>
+    <string name="feels_like">Ощущается как</string>
+    <string name="weather">Погода</string>
+    <string name="forecast">Прогноз</string>
+    <string name="favorites">Избранное</string>
+    <string name="enter_the_city">Введите город</string>
+    <string name="cancel">Отменить</string>
+    <string name="save">Сохранить</string>
+    <string name="select_the_number_of_days">Выберете количество дней</string>
+    <string name="select_a_language">Выберете язык</string>
+    <string name="default_location">Локация по умолчанию:</string>
+    <string name="forecast_duration_in_days">Количество дней прогноза:</string>
+    <string name="use_current_location">Использовать геолокацию:</string>
+    <string name="agree">Согласен</string>
+    <string name="disagree">Не согласен</string>
+    <string name="background_color">Цвет фона:</string>
+    <string name="language">Язык:</string>
+    <string name="forecast_settings">Настройки прогноза</string>
+    <string name="interface_settings">Настройки интерфейса</string>
+</resources>

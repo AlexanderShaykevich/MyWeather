@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="no_access_to_your_location">No access to your location</string>
+    <string name="permit_access">You can permit the access in the settings</string>
+    <string name="close">Close</string>
+    <string name="settings">Settings</string>
+    <string name="sorry_something_went_wrong">Sorry, something went wrong</string>
+    <string name="add">Add</string>
+    <string name="temperature">Temperature</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="snow">Snow</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="clouds">Clouds</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="feels_like">Feels like</string>
+    <string name="weather">Weather</string>
+    <string name="forecast">Forecast</string>
+    <string name="favorites">Favorites</string>
+    <string name="enter_the_city">Enter the city</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="select_the_number_of_days">Select the number of days</string>
+    <string name="select_a_language">Select a language</string>
+    <string name="default_location">Default location:</string>
+    <string name="forecast_duration_in_days">Forecast duration in days:</string>
+    <string name="use_current_location">Use current location:</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">Disagree</string>
+    <string name="background_color">Background color:</string>
+    <string name="language">Language:</string>
+    <string name="forecast_settings">Forecast settings</string>
+    <string name="interface_settings">Interface settings</string>
+    <string name="storageName" translatable="false">storage</string>
+</resources>
